@@ -1,4 +1,4 @@
-package com.example.delishfood
+package com.example.delishfood.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
